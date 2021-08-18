@@ -6,7 +6,7 @@ This is my simple chat app project with Codeigniter 3.
 
 ## How to use
 
-After performing the installation, update database, and configuration, you can login with :
+After performing the installation, install database, and configuration, you can login with :
 
 ```
 username : admin@ca.com
