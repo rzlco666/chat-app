@@ -1,0 +1,3 @@
+$ cat .gitattributes
+special-vendored-path/* linguist-vendored
+*.js linguist-language=PHP
